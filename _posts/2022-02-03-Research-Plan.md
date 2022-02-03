@@ -34,6 +34,8 @@ Thank you for giving your interest on my research topic. Here are my ongoing res
    
 ###  1-2) Auto Mood Detection
   Extract the mood of the arbitrary music.
+#### Related Works 
+[Lie Lu, D. Liu and Hong-Jiang Zhang, "Automatic mood detection and tracking of music audio signals," in IEEE Transactions on Audio, Speech, and Language Processing, vol. 14, no. 1, pp. 5-18, Jan. 2006, doi: 10.1109/TSA.2005.860344.](https://ieeexplore.ieee.org/document/1561259)   
 ###  1-3) Music Report
   Analyze the arbitrary music and visualize via web page. 
 ###  1-4) Auto Instrument Classification
