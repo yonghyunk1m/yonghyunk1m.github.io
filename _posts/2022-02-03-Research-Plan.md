@@ -20,7 +20,7 @@ tags: research plan
 sidebar: []
 ---
 
-Thank you for giving your interest on my research topic. Here are my ongoing research topic and also plan for doing it in the future.
+**Thank you for giving your interest on my research topic! Here are my ongoing research topic and also plan for doing it in the future.**
 
 ## 1. Music Analysis
 ###  1-1) Auto Tempo/Chord Detection
