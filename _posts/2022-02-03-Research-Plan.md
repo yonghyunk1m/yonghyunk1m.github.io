@@ -27,8 +27,8 @@ Thank you for giving your interest on my research topic. Here are my ongoing res
   Extract the main beat or chord from the arbitrary music in real-time.   
   <img src = "https://raw.githubusercontent.com/yonghyunk1m/yonghyunk1m.github.io/master/assets/images/research-plan-1-1.png">
   [\[github\]](https://github.com/yonghyunk1m/Main_Music_Note-Beat_Analysis)
-  [\[blog\]](https://github.com/yonghyunk1m/Main_Music_Note-Beat_Analysis)   
-#### Related Works   
+  [\[blog\]](https://github.com/yonghyunk1m/Main_Music_Note-Beat_Analysis)
+#### Related Works 
 [Oliveira, João & Gouyon, Fabien & Martins, Luis & Reis, Luís. (2010). IBT: A Real-time Tempo and Beat Tracking System.. 291-296.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.929.9481&rep=rep1&type=pdf)   
 [Müller M. (2015) Tempo and Beat Tracking. In: Fundamentals of Music Processing. Springer, Cham.](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6.html)   
    
