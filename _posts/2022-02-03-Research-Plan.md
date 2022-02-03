@@ -16,26 +16,34 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: research plan 
 sidebar: []
 ---
 
 Thank you for giving your interest on my research topic. Here are my ongoing research topic and also plan for doing it in the future.
 
-## Music Analysis
+## 1. Music Analysis
 
-1. Auto Tempo/Chord Detection
-2. Auto Mood Detection
-3. Music Report
-4. Auto Instrument Classification
-5. Auto Composition (Audio to Score)
+###  1-1) Auto Tempo/Chord Detection
+  Extract the main beat or chord from the arbitrary music in real-time.
+###  1-2) Auto Mood Detection
+  Extract the mood of the arbitrary music.
+###  1-3) Music Report
+  Analyze the arbitrary music and visualize via web page. 
+###  1-4) Auto Instrument Classification
+  Detect the instruments which have been played in the input sound.
+###  1-5) Auto Composition (Audio to Score)
+  Automatically record the score from the audio of orchestra.
+  Detect instruments, note, tempo, volume, etc.
+  Pre-requisites: 1-1), 1-2), 1-4)
 
-## Music Conduction for Metaverse
 
-1. Camera Based
-2. Euqipment Based
-3. Conduct Your Music
-4. Project Virtual Orchestra
+## 2. Music Conduction for Metaverse
+
+###  2-1) Camera Based
+###  2-2) Euqipment Based
+###  2-3) Conduct Your Music
+###  2-4) Project Virtual Orchestra
 
 ## section 1
 
