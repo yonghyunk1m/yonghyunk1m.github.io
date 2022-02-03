@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: Research Plan
+subtitle: My ongoing research and future works 
+author: Yonghyun Kim
+categories: Research Plan
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -20,9 +20,22 @@ tags: jekyll theme yat
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Thank you for giving your interest on my research topic. Here are my ongoing research topic and also plan for doing it in the future.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Music Analysis
+
+1. Auto Tempo/Chord Detection
+2. Auto Mood Detection
+3. Music Report
+4. Auto Instrument Classification
+5. Auto Composition (Audio to Score)
+
+## Music Conduction for Metaverse
+
+1. Camera Based
+2. Euqipment Based
+3. Conduct Your Music
+4. Project Virtual Orchestra
 
 ## section 1
 
