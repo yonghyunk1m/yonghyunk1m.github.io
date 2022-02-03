@@ -26,7 +26,7 @@ Thank you for giving your interest on my research topic. Here are my ongoing res
 ###  1-1) Auto Tempo/Chord Detection
   Extract the main beat or chord from the arbitrary music in real-time.   
   <img src = "https://raw.githubusercontent.com/yonghyunk1m/yonghyunk1m.github.io/master/assets/images/research-plan-1-1.png">
-
+  [\[project\]](https://github.com/yonghyunk1m/Main_Music_Note-Beat_Analysis)
 ###  1-2) Auto Mood Detection
   Extract the mood of the arbitrary music.
 ###  1-3) Music Report
