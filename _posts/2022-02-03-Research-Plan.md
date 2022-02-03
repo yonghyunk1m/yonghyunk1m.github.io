@@ -23,7 +23,6 @@ sidebar: []
 Thank you for giving your interest on my research topic. Here are my ongoing research topic and also plan for doing it in the future.
 
 ## 1. Music Analysis
-
 ###  1-1) Auto Tempo/Chord Detection
   Extract the main beat or chord from the arbitrary music in real-time.
 ###  1-2) Auto Mood Detection
@@ -33,8 +32,8 @@ Thank you for giving your interest on my research topic. Here are my ongoing res
 ###  1-4) Auto Instrument Classification
   Detect the instruments which have been played in the input sound.
 ###  1-5) Auto Composition (Audio to Score)
-  Automatically record the score from the audio of orchestra.
-  Detect instruments, note, tempo, volume, etc.
+  Automatically record the score from the audio of orchestra.   
+  Detect instruments, note, tempo, volume, etc.   
   Pre-requisites: 1-1), 1-2), 1-4)
 
 
