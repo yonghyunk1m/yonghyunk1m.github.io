@@ -34,8 +34,8 @@ Thank you for giving your interest on my research topic. Here are my ongoing res
 ###  1-5) Auto Composition (Audio to Score)
   Automatically record the score from the audio of orchestra.   
   Detect instruments, note, tempo, volume, etc.   
-  Pre-requisites: 1-1), 1-2), 1-4)
-
+  **Pre-requisites: 1-1), 1-2), 1-4)**   
+  #### Related Works
 
 ## 2. Music Conduction for Metaverse
 
