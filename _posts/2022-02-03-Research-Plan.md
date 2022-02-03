@@ -27,7 +27,9 @@ Thank you for giving your interest on my research topic. Here are my ongoing res
   Extract the main beat or chord from the arbitrary music in real-time.   
   <img src = "https://raw.githubusercontent.com/yonghyunk1m/yonghyunk1m.github.io/master/assets/images/research-plan-1-1.png">
   [\[github\]](https://github.com/yonghyunk1m/Main_Music_Note-Beat_Analysis)
-  [\[blog\]](https://github.com/yonghyunk1m/Main_Music_Note-Beat_Analysis)
+  [\[blog\]](https://github.com/yonghyunk1m/Main_Music_Note-Beat_Analysis)   
+#### Related Works   
+
 ###  1-2) Auto Mood Detection
   Extract the mood of the arbitrary music.
 ###  1-3) Music Report
@@ -39,7 +41,7 @@ Thank you for giving your interest on my research topic. Here are my ongoing res
   Detect instruments, note, tempo, volume, etc.   
   **Pre-requisites: 1-1), 1-2), 1-4)**
   
-  #### Related Works
+#### Related Works
   
 
 ## 2. Music Conduction for Metaverse
